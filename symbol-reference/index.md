@@ -72,7 +72,7 @@ Need a printable or shareable version?
 ## 💡 Want to Contribute?
 
 Spotted a missing symbol or alias?  
-Feel free to open an [Issue](https://github.com/YOUR-USERNAME/YOUR-REPO/issues) or send a [Pull Request](https://github.com/YOUR-USERNAME/YOUR-REPO/pulls).
+Feel free to open an [Issue](https://github.com/rishumehra/techwriting-resources/issues) or send a [Pull Request](https://github.com/rishumehra/techwriting-resources/pulls).
 
 ---
 
