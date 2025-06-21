@@ -42,4 +42,5 @@ Open an [issue](https://github.com/rishumehrar/techwriting-resources/issues) or 
 ## 💬 Author
 
 Made with 💙 by me (Rishu Mehra) 
+
 My Blog: [JustMySlide.com](https://justmyslide.com)
