@@ -68,7 +68,6 @@ Feel free to open an [Issue](https://github.com/rishumehra/techwriting-resources
 
 ---
 
-## © License
+Made with 💙 by me (Rishu Mehra) 
 
-MIT License  
-Originally compiled by [Rishu Mehra](https://justmyslide.com/) for the technical writing community.
+My Blog: [JustMySlide.com](https://justmyslide.com)
