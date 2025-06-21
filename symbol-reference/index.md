@@ -51,14 +51,6 @@ Great for writers, editors, and developers who want clarity when referring to sy
 | `®`     | Registered trademark  |                                                   | Indicates registered brand.                                                         |
 | `™`     | Trademark             |                                                   | Unregistered brand indicator.                                                       |
 
-
----
-
-## 📄 PDF Version
-
-Need a printable or shareable version?  
-👉 [Download the PDF version here](link-to-your-uploaded-pdf-on-repo-or-blog)
-
 ---
 
 ## 🛠 How to Use
