@@ -35,8 +35,8 @@ Great for writers, editors, and developers who want clarity when referring to sy
 | `[]`    | Square brackets       | Brackets, Box brackets                            | Arrays, indexing, optional items in syntax.                                         |
 | `{}`    | Curly braces          | Braces, Curly brackets                            | Code blocks, object literals (JavaScript), JSON.                                    |
 | `()`    | Parentheses           | Round brackets                                    | Function calls, parameter grouping.                                                 |
-| `\|`     | Pipe                  | Vertical bar, Bitwise OR                          | Shell piping (`\|`), Markdown tables, bitwise operations.                            |
-| `\|\|`    | Double Pipe           | Logical OR, Short-circuit OR                      | Used in logic (e.g., `if (x \|\| y)`), shell fallback commands.                       |
+| `|`     | Pipe                  | Vertical bar, Bitwise OR                          | Shell piping (`|`), Markdown tables, bitwise operations.                            |
+| `||`    | Double Pipe           | Logical OR, Short-circuit OR                      | Used in logic (e.g., `if (x || y)`), shell fallback commands.                       |
 | `&&`    | Double ampersand      | Logical AND                                       | Used in condition checks in Bash and programming.                                   |
 | `>`     | Greater than          | Angle bracket (right), Redirect symbol            | Comparisons, output redirection in shell.                                           |
 | `<`     | Less than             | Angle bracket (left)                              | Comparisons, HTML tag start.                                                        |
